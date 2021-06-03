@@ -1,0 +1,277 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A short instruction for such as accuse their memory, to excuse their ignorance</title>
+            <author>Gother, John, d. 1704.</author>
+         </titleStmt>
+         <extent>Approx. 6KB of XML-encoded text transcribed from 4 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A41626</idno><idno type="EEBO-CITATION">99833995</idno>
+  <idno type="VID">38474</idno>
+  <idno type="EEBO-PROQUEST">2240957291</idno>
+  
+            <idno type="STC">Wing G1349A</idno>
+            <idno type="STC">ESTC R223710</idno>
+            <idno type="PROQUEST">99833995</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-99833995e"/>
+            <note>(EEBO-TCP ; phase 2, no. A41626)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 38474)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1832:03)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A short instruction for such as accuse their memory, to excuse their ignorance</title>
+                  <author>Gother, John, d. 1704.</author>
+               </titleStmt>
+               <extent>7, [1] p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.],</publisher>
+                  <pubPlace>[S.l. :</pubPlace>
+                  <date>Printed in the year 1698.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>By John Gother.</note>
+                  <note>Reproduction of the original at the Bodleian Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="topical_term">Memory --  Early works to 1800.</term>
+               <term type="topical_term">Catechisms, English --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2013-11 </date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-06 </date>
+            <label>Colm MacCrossan </label>Sampled and proofread </change>
+         <change>
+            <date>2014-06 </date>
+            <label>Colm MacCrossan</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:38474:1"/>
+            <p>A SHORT Instruction For such as accuse their ME<g ref="char:EOLhyphen"/>MORY, to excuse their IGNORANCE.</p>
+            <p>Printed in the Year 1698.</p>
+            <pb facs="tcp:38474:2"/>
+         </div>
+      </front>
+      <body>
+         <div type="catechism">
+            <pb n="3" facs="tcp:38474:2"/>
+            <head>A SHORT <hi>Instruction,</hi> &amp;c.</head>
+            <p>Q. <hi>HOW many Gods are there?</hi>
+            </p>
+            <p>
+               <hi>A.</hi> One.</p>
+            <p>Q. <hi>How many Persons?</hi>
+            </p>
+            <p>
+               <hi>A.</hi> Three.</p>
+            <p>Q. <hi>Which are they?</hi>
+            </p>
+            <p>
+               <hi>A.</hi> God the Father, God the Son, and God the Holy Ghost.</p>
+            <p>Q. <hi>Which of the Three Persons was made Man, and dy'd for us?</hi>
+            </p>
+            <p>
+               <hi>A.</hi> God the Son, the second Person.</p>
+            <p>Q. <hi>Was God the Father made Man?</hi>
+            </p>
+            <p>
+               <hi>A.</hi> No.</p>
+            <p>Q. <hi>Was God the Holy Ghost made Man?</hi>
+            </p>
+            <p>
+               <hi>A.</hi> No.</p>
+            <p>Q. <hi>What is a Sacrament?</hi>
+            </p>
+            <p>
+               <hi>A.</hi> It is a visible Sign of an invisible Grace.</p>
+            <pb n="4" facs="tcp:38474:3"/>
+            <p>Q. <hi>How many Sacraments are there?</hi>
+            </p>
+            <p>
+               <hi>A.</hi> Seven.</p>
+            <p>Q. <hi>Which are they?</hi>
+            </p>
+            <p>
+               <hi>A.</hi> Baptism, Confirmation, Eucharist, Penance, Extreme Unction, Holy Or<g ref="char:EOLhyphen"/>der, and Matrimony.</p>
+            <p>Q. <hi>How many Parts are there in the Sa<g ref="char:EOLhyphen"/>crament of Penance?</hi>
+            </p>
+            <p>
+               <hi>A.</hi> Three.</p>
+            <p>Q. <hi>Which are they?</hi>
+            </p>
+            <p>
+               <hi>A.</hi> Contrition, Confession, and Sa<g ref="char:EOLhyphen"/>tisfaction.</p>
+            <p>Q. <hi>What is Contrition?</hi>
+            </p>
+            <p>
+               <hi>A.</hi> It is a hearty Sorrow for our Sins, proceeding from the love of God, join'd with a firm purpose of Amend<g ref="char:EOLhyphen"/>ment.</p>
+            <p>Q <hi> How many kinds of Sin is there?</hi>
+            </p>
+            <p>
+               <hi>A</hi> Two.</p>
+            <p>Q. <hi>Which are they?</hi>
+            </p>
+            <p>
+               <hi>A.</hi> Original and Actual</p>
+            <p>Q. <hi>What is Original Sin?</hi>
+            </p>
+            <p>
+               <hi>A.</hi> The Sin we are all born in.</p>
+            <p>Q. <hi>What is Actual Sin?</hi>
+            </p>
+            <p>
+               <hi>A.</hi> The Sin we our selves commit.</p>
+            <p>Q. <hi>How many Kinds of Actual Sins are there?</hi>
+            </p>
+            <p>
+               <hi>A.</hi> Two.</p>
+            <p>Q. <hi>Which are they?</hi>
+            </p>
+            <p>
+               <hi>A.</hi> Mortal and Venial.</p>
+            <p>Q. <hi>What is a mortal Sin?</hi>
+            </p>
+            <pb n="5" facs="tcp:38474:3"/>
+            <p>
+               <hi>A.</hi> A great Sin that kills the Soul, and deserves Hell.</p>
+            <p>Q. <hi>What is a Venial Sin?</hi>
+            </p>
+            <p>
+               <hi>A.</hi> A Sin that doth not kill the Soul, but yet displeaseth God.</p>
+            <p>Q. <hi>What Sacrament taketh away Ori<g ref="char:EOLhyphen"/>ginal Sin?</hi>
+            </p>
+            <p>
+               <hi>A.</hi> Baptism.</p>
+            <p>Q. <hi>What Sacrament taketh away Actual Sin?</hi>
+            </p>
+            <p>
+               <hi>A.</hi> Penance.</p>
+            <p>Q. <hi>Are we oblig'd to confess all our Mor<g ref="char:EOLhyphen"/>tal Sins?</hi>
+            </p>
+            <p>
+               <hi>A.</hi> Yes, or else we commit a new grievous Sin, and none of our Sins are pardon'd us.</p>
+            <p>Q. <hi>Are we oblig'd to confess all our Venial Sins?</hi>
+            </p>
+            <p>
+               <hi>A.</hi> No.</p>
+            <p>Q. <hi>What if we doubt, whether a Sin be Mortal or Venial?</hi>
+            </p>
+            <p>
+               <hi>A.</hi> Then we are oblig'd to confess it.</p>
+            <p>Q. <hi>What is the Blessed Eucharist?</hi>
+            </p>
+            <p>
+               <hi>A.</hi> It is the true Body and Blood of JESUS CHRIST, true God and true Man, whole CHRIST, under the out<g ref="char:EOLhyphen"/>ward Forms of Bread and Wine.</p>
+            <p>Q. <hi>Doth the Bread and Wine remain af<g ref="char:EOLhyphen"/>ter Consecration?</hi>
+            </p>
+            <p>
+               <hi>A.</hi> No, they are turn'd into the Bo<g ref="char:EOLhyphen"/>dy and Blood of Christ.</p>
+            <pb n="6" facs="tcp:38474:4"/>
+            <sp>
+               <speaker>M.</speaker>
+               <p>Say the Ten Commandments.</p>
+            </sp>
+            <sp>
+               <speaker>S.</speaker>
+               <p>
+                  <list>
+                     <item>1. Thou shalt have no other Gods but me.</item>
+                     <item>2. Thou shalt not take the Name of the Lord thy God in vain.</item>
+                     <item>3. Remember thou keep holy the Sabbath Day.</item>
+                     <item>4. Honour thy Father and Mother.</item>
+                     <item>5. Thou shalt not kill.</item>
+                     <item>6. Thou shalt not commit Adultery.</item>
+                     <item>7. Thou shalt not Steal.</item>
+                     <item>8. Thou shalt not bear false witness against thy Neighbour.</item>
+                     <item>9. Thou shalt not covet thy Neigh<g ref="char:EOLhyphen"/>bour's Wife.</item>
+                     <item>10. Thou shalt not covet thy Neigh<g ref="char:EOLhyphen"/>bour's Goods.</item>
+                  </list>
+               </p>
+            </sp>
+            <p>Q. <hi>How many are the Commandments of the Church.</hi>
+            </p>
+            <p>
+               <hi>A.</hi> Six.</p>
+            <p>Q. <hi>Which are they?</hi>
+            </p>
+            <p>
+               <hi>A.</hi> 1. To hear Mass on all <hi>Sundays</hi> and <hi>Holy-days.</hi>
+            </p>
+            <p n="2">2. To fast <hi>Lent, Vigils, Ember-days,</hi> and <hi>Fridays,</hi> by the Custom of <hi>England,</hi> with abstinence from Flesh on <hi>Satur<g ref="char:EOLhyphen"/>days.</hi>
+            </p>
+            <p n="3">3. To confess our Sins, at least once a Year.</p>
+            <pb n="7" facs="tcp:38474:4"/>
+            <p n="4"> 4. To receive the Blessed Eucharist at <hi>Easter,</hi> or thereabouts.</p>
+            <p n="5">5. To pay Tythes to the Pastors.</p>
+            <p n="6">6. Not to Celebrate Marriages in <hi>Lent,</hi> nor <hi>Advent.</hi>
+            </p>
+            <p>Q. <hi>Which are the Four last Things?</hi>
+            </p>
+            <p>
+               <hi>A.</hi> Death, Judgment, Hell, and Heaven.</p>
+            <p>Q. <hi>Is it profitable to remember them often?</hi>
+            </p>
+            <p>
+               <hi>A.</hi> Yes, according to that; <hi>In all thy Works, remember thy Last Things, and thou wilt never sin,</hi> Eccl. 7. 40.</p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
